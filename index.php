@@ -1,9 +1,9 @@
 <pre>
+<body bgcolor='aqua'>
 <?php
 
-<body bgcolor='aqua'>
-
 print ("---------------------");
+print("\n");
 print ("Welcome to My Page !!");
 
 print ("\n");
@@ -11,4 +11,5 @@ print ("\n");
 print `ifconfig`;
 
 ?>
+<body>
 </pre>
